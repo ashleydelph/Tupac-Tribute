@@ -1,0 +1,35 @@
+body {
+  background-color: #10375c;
+  text-align: center;
+}
+
+h1 {
+  color: #ffd31d;
+
+
+}
+h2 {
+  color: #f3c623;
+}
+h3 {
+  color: #d92027;
+}
+p {
+  color: #f4f6ff;
+  line-height: 32px;
+  padding: 10px 50px 50px;
+}
+
+.dates {
+  color: #f4f6ff;
+  text-align: left;
+}
+
+.hero_section {
+  padding-left: 220px;
+  padding-top: 20px;
+}
+
+thead {
+  color: #f3c623;
+}
